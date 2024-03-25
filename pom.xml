@@ -51,10 +51,11 @@
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.sonarsource.scanner.maven</groupId>
+			<groupId>org.codehaus.mojo</groupId>
 			<artifactId>sonar-maven-plugin</artifactId>
-			<version>3.9.1.2184</version>
+			<version>3.11.0.3922</version>
 		</dependency>
+
 	</dependencies>
 
 	<build>
